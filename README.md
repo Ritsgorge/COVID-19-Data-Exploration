@@ -1,2 +1,2 @@
-# Project1
-This covid data was downloaded from Kaggle.com. It was cleaned and analyzed using SQL after which insights were generated.
+# DATA CLEANING & EXPLORATION
+The data was downloaded from Kaggle.com. It contained the number of confirmed deaths from COVID-19. It was cleaned and explored using PostgreSQL.
